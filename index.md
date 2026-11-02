@@ -2,7 +2,7 @@
 
 **Дата вступления в силу:** 30 октября 2026 года  
 **Версия приложения:** 1.0.9 (сборка 16)  
-**Идентификатор пакета (Package ID):** `com.example.mobiletestguards`  
+**Идентификатор пакета (Package ID):** `com.example.mobiletestguards`  и `com.example.private_guard_bilety`
 **Постоянный адрес размещения:** [https://mishakorobov.github.io/privacy-policy-vohrtesty2026/](https://mishakorobov.github.io/privacy-policy-vohrtesty2026/)
 
 ---
